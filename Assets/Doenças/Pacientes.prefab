@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2820982211497971853
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6558124539798754958}
+  - component: {fileID: 6154502754139996605}
+  - component: {fileID: 6913173341522965904}
+  m_Layer: 0
+  m_Name: Pacientes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6558124539798754958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820982211497971853}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 759166871818877936}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &6154502754139996605
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820982211497971853}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6913173341522965904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2820982211497971853}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f2cecb69e1c0e4f8e055093572279e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  todasAsDoencas:
+  - {fileID: 11400000, guid: 3dfa00861b1f52047b559d3646fc55b9, type: 2}
+  - {fileID: 11400000, guid: 12e6f03ce4033144bb32051fc3aeefb7, type: 2}
+  - {fileID: 11400000, guid: 390df2499e8296c4eb83a62308071770, type: 2}
+  - {fileID: 11400000, guid: 562a44b9e3230434c8c289f381d56716, type: 2}
+  todosOsPacientesPrefabs:
+  - {fileID: 5171248028724649705}
+  - {fileID: 5171248028724649705}
+  pontoDeSpawnPaciente: {fileID: 759166871818877936}
+  _doencaAtual: {fileID: 0}
+  pacienteAtualObject: {fileID: 0}
+--- !u!1001 &2355375214100577318
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6558124539798754958}
+    m_Modifications:
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7452348973046244047, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      propertyPath: m_Name
+      value: PacienteTeste
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7452348973046244047, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8183396262870397197}
+  m_SourcePrefab: {fileID: 100100000, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+--- !u!4 &759166871818877936 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3037365104539289558, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+  m_PrefabInstance: {fileID: 2355375214100577318}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5171248028724649705 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7452348973046244047, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+  m_PrefabInstance: {fileID: 2355375214100577318}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8183396262870397197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5171248028724649705}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9241c014cda98574b90b3315edbeaf6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 5320737697450981485}
+  imageRenderer: {fileID: 0}
+  spriteNormal: {fileID: 21300000, guid: 4b661888d13f8b848af10e82b3d03af0, type: 3}
+  spriteMagrezaExtrema: {fileID: 21300000, guid: 349d69fa4ce56e74aac766390c0417c5, type: 3}
+  spriteManchasNaPele: {fileID: 21300000, guid: c5970613b62c53e45814f68870d00422, type: 3}
+  spriteQuedaDeCabelo: {fileID: 21300000, guid: 099791f6416005949bb8e3855641e1aa, type: 3}
+  spriteSudorese: {fileID: 21300000, guid: 2f7eaa56001a3e846a39ecfbd191e41d, type: 3}
+  spriteCansaco: {fileID: 21300000, guid: 6188f18e4a5009145a23bd1bc2658c91, type: 3}
+  spriteDorNoPeito: {fileID: 21300000, guid: 099791f6416005949bb8e3855641e1aa, type: 3}
+  usarEfeitosAdicionais: 0
+  particulasSuor: {fileID: 0}
+  efeitoManchas: {fileID: 0}
+  animator: {fileID: 8428798053877579758}
+  duracaoTransicao: 0.3
+--- !u!212 &5320737697450981485 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 7600097023943050315, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+  m_PrefabInstance: {fileID: 2355375214100577318}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &8428798053877579758 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 6077293697342964680, guid: 7be89be1f2ae75440baac4603ce852f6, type: 3}
+  m_PrefabInstance: {fileID: 2355375214100577318}
+  m_PrefabAsset: {fileID: 0}

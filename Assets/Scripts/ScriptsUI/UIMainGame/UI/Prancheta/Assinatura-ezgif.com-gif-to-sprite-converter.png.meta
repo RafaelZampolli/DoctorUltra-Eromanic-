@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: e3509999e309cb34fac1b6315f421fb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2894764849270018249
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -3403089132343721448
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -1573624939044343705
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -6157799409301508619
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 3829280706082853855
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -6066620489844882721
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 1955666169623508006
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 5878148271165754091
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 1318178179464259667
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -6025645875139443053
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -3096027202320426812
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -8108387693528352642
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -2330009078830128629
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 6022696891176459733
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -813682172332259585
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -8869923397106541003
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -6220129323372467442
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 5065938073051649878
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 828464782412330743
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -5013920057063993933
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 50189228581810438
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -4915328898542773384
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -7472251738256046527
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -8824047782151261796
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -4424903656776508839
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 7724892310177953043
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 8634313970864760292
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -9152382278750144408
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -1263382968834430919
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 648732514320302504
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -4029429330922056561
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 3646663567859946433
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -518838089730398779
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -5871283111961012460
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -1243846582589808805
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 905510887889268729
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 7942090412501545103
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 96404410535434380
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -7203528881375228808
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 4968100608928999060
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: 1199266275269833036
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 8812260202436489263
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: -7436448157734746341
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: -2577924076428801612
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: 6798701412465250358
+    second: Assinatura-ezgif.com-gif-to-sprite-converter_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 7036
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f29fae4bab3d7d0800000000000000
+      internalID: -2894764849270018249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 7036
+        width: 202
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81209a7e67cc5c0d0800000000000000
+      internalID: -3403089132343721448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 6964
+        width: 304
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f092947c592ae0800000000000000
+      internalID: -1573624939044343705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 6932
+        width: 304
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd297a001a1b8aa0800000000000000
+      internalID: -6157799409301508619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 6162
+        width: 366
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd353578386542530800000000000000
+      internalID: 3829280706082853855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 5976
+        width: 476
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd280bb8ec80fcba0800000000000000
+      internalID: -6066620489844882721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 5868
+        width: 723
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62478ab050ce32b10800000000000000
+      internalID: 1955666169623508006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5800
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea49e775b0639150800000000000000
+      internalID: 5878148271165754091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 5800
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35863a9f11c1b4210800000000000000
+      internalID: 1318178179464259667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5080
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3960406700b906ca0800000000000000
+      internalID: -6025645875139443053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 5080
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c89eb6b9a3b805d0800000000000000
+      internalID: -3096027202320426812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 5080
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f7125a58397f80800000000000000
+      internalID: -8108387693528352642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5080
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0225e476152aafd0800000000000000
+      internalID: -2330009078830128629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 5080
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd1c64b9eae49350800000000000000
+      internalID: 6022696891176459733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4360
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff64116106835b4f0800000000000000
+      internalID: -813682172332259585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 4360
+        width: 876
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed98a4aa3b7e480800000000000000
+      internalID: -8869923397106541003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 4360
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ba4670659ada9a0800000000000000
+      internalID: -6220129323372467442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 4360
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657de5246d3dd4640800000000000000
+      internalID: 5065938073051649878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 4360
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6bb98845c4f7b00800000000000000
+      internalID: 828464782412330743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3640
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd8e72e54afa6ab0800000000000000
+      internalID: -5013920057063993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3640
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6017b2566de42b000800000000000000
+      internalID: 50189228581810438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 3640
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b5528c86e39cbb0800000000000000
+      internalID: -4915328898542773384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 3640
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14604fc32aa3d4890800000000000000
+      internalID: -7472251738256046527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 3640
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91fccf3b4faa8580800000000000000
+      internalID: -8824047782151261796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2920
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a528c71959792c0800000000000000
+      internalID: -4424903656776508839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2920
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315bd4cb0a4543b60800000000000000
+      internalID: 7724892310177953043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 2920
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e526985fce33d770800000000000000
+      internalID: 8634313970864760292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 2920
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86874821fc43cf080800000000000000
+      internalID: -9152382278750144408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 2920
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938685f22ef877ee0800000000000000
+      internalID: -1263382968834430919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2200
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ce4ed8c2c00900800000000000000
+      internalID: 648732514320302504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2200
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84d9d25f579418c0800000000000000
+      internalID: -4029429330922056561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 2200
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c396a1b13d8b9230800000000000000
+      internalID: 3646663567859946433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 2200
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c56dad9187bcc8f0800000000000000
+      internalID: -518838089730398779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 2200
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41750d7fd13058ea0800000000000000
+      internalID: -5871283111961012460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1480
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f96a19f18fcbee0800000000000000
+      internalID: -1243846582589808805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1480
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff63ecda55019c00800000000000000
+      internalID: 905510887889268729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 1480
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80b033b629f73e60800000000000000
+      internalID: 7942090412501545103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1480
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88deb4fc4f765100800000000000000
+      internalID: 96404410535434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 1480
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ccc58f5ace70c90800000000000000
+      internalID: -7203528881375228808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 760
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4966d938e2d32f440800000000000000
+      internalID: 4968100608928999060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 760
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417098c256a4a010800000000000000
+      internalID: 1199266275269833036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 760
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f98af6ff6b4a70800000000000000
+      internalID: 8812260202436489263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 760
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17cc9feccd6cc890800000000000000
+      internalID: -7436448157734746341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 760
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c88ef5bf593cd0800000000000000
+      internalID: -2577924076428801612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assinatura-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 40
+        width: 875
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63010ffd9e6d95e50800000000000000
+      internalID: 6798701412465250358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Assinatura-ezgif.com-gif-to-sprite-converter_0: -2894764849270018249
+      Assinatura-ezgif.com-gif-to-sprite-converter_1: -3403089132343721448
+      Assinatura-ezgif.com-gif-to-sprite-converter_10: -3096027202320426812
+      Assinatura-ezgif.com-gif-to-sprite-converter_11: -8108387693528352642
+      Assinatura-ezgif.com-gif-to-sprite-converter_12: -2330009078830128629
+      Assinatura-ezgif.com-gif-to-sprite-converter_13: 6022696891176459733
+      Assinatura-ezgif.com-gif-to-sprite-converter_14: -813682172332259585
+      Assinatura-ezgif.com-gif-to-sprite-converter_15: -8869923397106541003
+      Assinatura-ezgif.com-gif-to-sprite-converter_16: -6220129323372467442
+      Assinatura-ezgif.com-gif-to-sprite-converter_17: 5065938073051649878
+      Assinatura-ezgif.com-gif-to-sprite-converter_18: 828464782412330743
+      Assinatura-ezgif.com-gif-to-sprite-converter_19: -5013920057063993933
+      Assinatura-ezgif.com-gif-to-sprite-converter_2: -1573624939044343705
+      Assinatura-ezgif.com-gif-to-sprite-converter_20: 50189228581810438
+      Assinatura-ezgif.com-gif-to-sprite-converter_21: -4915328898542773384
+      Assinatura-ezgif.com-gif-to-sprite-converter_22: -7472251738256046527
+      Assinatura-ezgif.com-gif-to-sprite-converter_23: -8824047782151261796
+      Assinatura-ezgif.com-gif-to-sprite-converter_24: -4424903656776508839
+      Assinatura-ezgif.com-gif-to-sprite-converter_25: 7724892310177953043
+      Assinatura-ezgif.com-gif-to-sprite-converter_26: 8634313970864760292
+      Assinatura-ezgif.com-gif-to-sprite-converter_27: -9152382278750144408
+      Assinatura-ezgif.com-gif-to-sprite-converter_28: -1263382968834430919
+      Assinatura-ezgif.com-gif-to-sprite-converter_29: 648732514320302504
+      Assinatura-ezgif.com-gif-to-sprite-converter_3: -6157799409301508619
+      Assinatura-ezgif.com-gif-to-sprite-converter_30: -4029429330922056561
+      Assinatura-ezgif.com-gif-to-sprite-converter_31: 3646663567859946433
+      Assinatura-ezgif.com-gif-to-sprite-converter_32: -518838089730398779
+      Assinatura-ezgif.com-gif-to-sprite-converter_33: -5871283111961012460
+      Assinatura-ezgif.com-gif-to-sprite-converter_34: -1243846582589808805
+      Assinatura-ezgif.com-gif-to-sprite-converter_35: 905510887889268729
+      Assinatura-ezgif.com-gif-to-sprite-converter_36: 7942090412501545103
+      Assinatura-ezgif.com-gif-to-sprite-converter_37: 96404410535434380
+      Assinatura-ezgif.com-gif-to-sprite-converter_38: -7203528881375228808
+      Assinatura-ezgif.com-gif-to-sprite-converter_39: 4968100608928999060
+      Assinatura-ezgif.com-gif-to-sprite-converter_4: 3829280706082853855
+      Assinatura-ezgif.com-gif-to-sprite-converter_40: 1199266275269833036
+      Assinatura-ezgif.com-gif-to-sprite-converter_41: 8812260202436489263
+      Assinatura-ezgif.com-gif-to-sprite-converter_42: -7436448157734746341
+      Assinatura-ezgif.com-gif-to-sprite-converter_43: -2577924076428801612
+      Assinatura-ezgif.com-gif-to-sprite-converter_44: 6798701412465250358
+      Assinatura-ezgif.com-gif-to-sprite-converter_5: -6066620489844882721
+      Assinatura-ezgif.com-gif-to-sprite-converter_6: 1955666169623508006
+      Assinatura-ezgif.com-gif-to-sprite-converter_7: 5878148271165754091
+      Assinatura-ezgif.com-gif-to-sprite-converter_8: 1318178179464259667
+      Assinatura-ezgif.com-gif-to-sprite-converter_9: -6025645875139443053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

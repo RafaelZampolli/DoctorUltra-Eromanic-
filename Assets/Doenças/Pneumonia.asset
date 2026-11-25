@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d9f70e91be005f429c581b076a0f857, type: 3}
+  m_Name: Pneumonia
+  m_EditorClassIdentifier: 
+  nome: Pneumonia
+  descricao: 
+  tipoCura: 3
+  chanceAparicao: 25
+  temTempoLimite: 0
+  tempoLimite: 0
+  magrezaExtrema: 0
+  manchasNaPele: 0
+  quedaDeCabelo: 0
+  sudorese: 0
+  cansaco: 1
+  dorNoPeito: 1
+  fraturaExposta: 0
+  dorDeCabeca: 0
+  tosse: 1
+  nauseaOuVomito: 0
+  febre: 1
+  calafrio: 1
+  ProblemasRespiratorios: 1
+  eAcao: 0

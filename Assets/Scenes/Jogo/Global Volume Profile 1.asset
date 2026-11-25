@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-924241833029234317
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 919378fce841bab4ab9fbed8122aa40d, type: 3}
+  m_Name: BuckshotVolume
+  m_EditorClassIdentifier: 
+  active: 1
+  <displayName>k__BackingField: 
+  material:
+    <debugId>k__BackingField: material
+    m_OverrideState: 1
+    m_Value: {fileID: 0}
+  posterizeSteps:
+    <debugId>k__BackingField: posterizeSteps
+    m_OverrideState: 1
+    m_Value: 18
+  pixelSize:
+    <debugId>k__BackingField: pixelSize
+    m_OverrideState: 1
+    m_Value: 20
+  vignetteStrength:
+    <debugId>k__BackingField: vignetteStrength
+    m_OverrideState: 1
+    m_Value: 0.799
+  burst:
+    <debugId>k__BackingField: burst
+    m_OverrideState: 1
+    m_Value: 2
+  chromaticAberration:
+    <debugId>k__BackingField: chromaticAberration
+    m_OverrideState: 1
+    m_Value: 0.005
+  glitch:
+    <debugId>k__BackingField: glitch
+    m_OverrideState: 1
+    m_Value: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Global Volume Profile 1
+  m_EditorClassIdentifier: 
+  components: []

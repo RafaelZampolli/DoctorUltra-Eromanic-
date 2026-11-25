@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5407d6746211a434091e1dfdddd528c8, type: 3}
+  m_Name: OTolo
+  m_EditorClassIdentifier: 
+  nomeCarta: O Tolo
+  descricao: "Chama outro paciente. (Chance de 1/4 de pular um n\xFAmero na fila)"
+  preco: 80
+  imagemCarta: {fileID: 0}
+  corCarta: {r: 1, g: 1, b: 1, a: 1}
+  somHover: {fileID: 0}
+  somClick: {fileID: 0}
